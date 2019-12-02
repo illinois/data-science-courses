@@ -52,6 +52,11 @@ Programming skills are a fundamental part of Data Science.  Several courses prov
   - Programming: Python + Excel
   - Website: [https://pages.github-dev.cs.illinois.edu/cs-105/web/](https://pages.github-dev.cs.illinois.edu/cs-105/web/)
 
+- **CS 125: Intro to Computer Science**, 4 CR, [Offered in Spring 2020](https://courses.illinois.edu/schedule/2020/spring/CS/125)
+  - Lecture + Lab Section; Prerequisites: MATH 112 (Algebra)
+  - Programming: Java + Android
+  - Website: [https://cs125.cs.illinois.edu/](https://cs125.cs.illinois.edu/)
+
 
 ### Business Analytics Courses
 
