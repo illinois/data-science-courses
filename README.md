@@ -57,6 +57,13 @@ Programming skills are a fundamental part of Data Science.  Several courses prov
   - Programming: Java + Android
   - Website: [https://cs125.cs.illinois.edu/](https://cs125.cs.illinois.edu/)
 
+- **STAT 385: Statistics Programming Methods**, 3 CR, [Offered in Fall 2020](https://courses.illinois.edu/schedule/2020/fall/STAT/385)
+  - Lecture Only; Prerequisites: STAT 200 or STAT 212
+  - Programming: R
+  
+- **STAT 430: Data Science Programming Methods**, 3 or 4 CR, [Offered in Fall 2020](https://courses.illinois.edu/schedule/2020/fall/STAT/430)
+  - Online Section; Prerequisites: STAT 410, STAT 420, and STAT 425 or consent of instructor
+  - Programming: R, SQL, C++
 
 ### Business Analytics Courses
 
@@ -76,6 +83,13 @@ Machine learning is a foundational piece of Data Science.  Courses focusing on m
 - **CS 446: Machine Learning**, 3 or 4 CR, [Offered in Fall 2020](https://courses.illinois.edu/schedule/2020/fall/CS/446)
   - Lecture Only; Prerequisites: CS 225 (Data Structures) and MATH 225 or 415 (Linear Algebra)
 
-- **CS 498, Section AML:Applied Machine Learning**, 3 CR, [Offered in Fall 2020](https://courses.illinois.edu/schedule/2020/fall/CS/498)
+- **CS 498, Section AML: Applied Machine Learning**, 3 CR, [Offered in Fall 2020](https://courses.illinois.edu/schedule/2020/fall/CS/498)
   - Lecture Only; Prerequisites: A course in probability or statistics, a course in linear algebra, and some programming experience
 
+- **STAT 432: Basics of Statistical Learning**, 3 or 4 CR, [Offered in Fall 2020](https://courses.illinois.edu/schedule/2020/fall/STAT/432)
+  - Online Section; Prerequisites: STAT 400, and either STAT 420 or STAT 425
+  - Programming: R
+  - Website: [https://stat432.org/](https://stat432.org/)
+
+- **STAT 542: Statistical Learning**, 4 CR, [Offered in Fall 2020](https://courses.illinois.edu/schedule/2020/fall/STAT/542)
+  - Lecture Only; Prerequisites: STAT 410 and STAT 425
