@@ -35,6 +35,9 @@ These courses provide a deeper Data Science experience and require basic Data Sc
   - Programming: Python
   - Website: [http://courses.las.illinois.edu/spring2020/stat207/](http://courses.las.illinois.edu/spring2020/stat207/)
 
+- **GEOG 407: Foundations of CyberGIS & Geospatial Data Science**, 4 CR, [Offered in Fall 2020](https://courses.illinois.edu/schedule/2020/fall/GEOG/407)
+  - Lecture Only; Prerequisites: None.
+  - Programming: Python
 
 ## Data Science Related Courses
 
