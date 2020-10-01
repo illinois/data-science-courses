@@ -38,6 +38,10 @@ These courses provide a deeper Data Science experience and require basic Data Sc
 - **GEOG 407: Foundations of CyberGIS & Geospatial Data Science**, 4 CR, [Offered in Fall 2020](https://courses.illinois.edu/schedule/2020/fall/GEOG/407)
   - Lecture Only; Prerequisites: None.
   - Programming: Python
+  
+- **IS 417: Data Science in the Humanities**
+  - Lecture Only; Prerequisites: One semester of programming.
+  - Description: [https://ischool.illinois.edu/degrees-programs/courses/is417](https://ischool.illinois.edu/degrees-programs/courses/is417)
 
 ## Data Science Related Courses
 
