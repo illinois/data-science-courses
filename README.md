@@ -100,3 +100,12 @@ Machine learning is a foundational piece of Data Science.  Courses focusing on m
 
 - **STAT 542: Statistical Learning**, 4 CR, [Offered in Fall 2020](https://courses.illinois.edu/schedule/2020/fall/STAT/542)
   - Lecture Only; Prerequisites: STAT 410 and STAT 425
+
+  ### Linear Algebra-Focused Courses
+
+Linear algebra skills are a fundamental part of Data Science.  Several courses provide an introduction to linear algebra skills:
+
+  - **MATH 227: Linear Algebra for Data Science**, 4 CR, [Offered in Fall 2021]
+  - Lecture + Lab Section; Prerequisites: MATH 220 or 221 (Calculus I) and 1 semester of programming 
+  - Programming: Python 
+  
