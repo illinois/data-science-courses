@@ -8,7 +8,7 @@ This list provides all known courses related to Data Science at The University o
 - **STAT / CS / IS 107: Data Science Discovery**, 4 CR, [Offered in Fall 2022](https://courses.illinois.edu/schedule/2022/fall/STAT/107), QR1 Gened
   - Lecture + Lab Section; Prerequisites: None.
   - Programming: Python (pandas, scikit-learn)
-  - Website: [http://courses.las.illinois.edu/spring2020/stat107/](http://courses.las.illinois.edu/spring2020/stat107/)
+  - Website (Spring 2022): [https://discovery.cs.illinois.edu/stat107-sp22/](https://discovery.cs.illinois.edu/stat107-sp22/)
 
 
 ### Non-GeEed Introduction-Level Courses
